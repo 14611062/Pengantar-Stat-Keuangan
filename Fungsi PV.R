@@ -17,6 +17,7 @@ pv=function(num,A,i,t,m=TRUE)
          }
   )
 }
+#Percobaan
 pv("satu",3500,0.07,4)
 pv("dua",3500,0.07,4)
 pv("dua",3500,0.07,4,2)
